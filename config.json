@@ -1,0 +1,8 @@
+{
+	"autoGenerateVb": true,
+	"platform": "WPF",
+	"product": "DXPrinting for WPF",
+	"runOnWeb": false,
+	"technology": ".NET",
+	"unsupportedVersions": ""
+}
